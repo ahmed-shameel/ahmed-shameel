@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**ahmed-shameel/ahmed-shameel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with experience building enterprise applications using Java, Spring Boot, Angular and cloud technologies.
 
-Here are some ideas to get you started:
+I'm currently focusing on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend Engineering
+- Spring Boot
+- Cloud (AWS/GCP)
+- Cybersecurity
+- AI-powered applications
+- Clean Architecture
+
+## Tech Stack
+
+**Backend**
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- MySQL
+
+**Frontend**
+- Angular
+- TypeScript
+
+**Cloud & DevOps**
+- Docker
+- Kubernetes (learning)
+- AWS (learning)
+- GCP
+
+## Current Goal
+
+Building production-ready backend systems and preparing for software engineering opportunities in Switzerland.
+
+## Featured Projects
+
+- SecureBank *(coming soon)*
+- AI Microservice *(coming soon)*
+- Cloud Infrastructure *(coming soon)*
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/your-profile
