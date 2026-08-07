@@ -30,9 +30,9 @@ I'm currently focusing on:
 - AWS (learning)
 - GCP
 
-## Current Goal
+## Current Focus
 
-Building production-ready backend systems and preparing for software engineering opportunities in Switzerland.
+Building production-ready software with a strong emphasis on backend engineering, cloud technologies, software security, and AI.
 
 ## Featured Projects
 
