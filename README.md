@@ -34,12 +34,6 @@ I'm currently focusing on:
 
 Building production-ready software with a strong emphasis on backend engineering, cloud technologies, software security, and AI.
 
-## Featured Projects
-
-- SecureBank *(coming soon)*
-- AI Microservice *(coming soon)*
-- Cloud Infrastructure *(coming soon)*
-
 ## Connect
 
 - LinkedIn: https://linkedin.com/in/your-profile
