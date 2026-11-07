@@ -7,7 +7,6 @@ I'm currently focusing on:
 - Backend Engineering
 - Spring Boot
 - Cloud (AWS/GCP)
-- Cybersecurity
 - AI-powered applications
 - Clean Architecture
 
