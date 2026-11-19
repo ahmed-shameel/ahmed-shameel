@@ -35,4 +35,4 @@ Building production-ready software with a strong emphasis on backend engineering
 
 ## Connect
 
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ahmed-shameel-1599a11b4/)
+- LinkedIn: [https://www.linkedin.com/in/ahmed-shameel](https://www.linkedin.com/in/ahmed-shameel-1599a11b4/)
